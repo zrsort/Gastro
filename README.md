@@ -4,7 +4,7 @@
 ### 打卡
 * 右滑打卡，左滑菜单。
 * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/右滑打卡.png" width=400>
-* <a href="https://raw.githubusercontent.com/zrsort/Gastro/privacy-policy.md">Privacy</a>
+* <a href="./privacy-policy.md">Privacy</a>
 
 * 打卡通知
   * 下拉，能看到之前的打卡详情，可以直接选择，不必再写。
